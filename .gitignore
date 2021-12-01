@@ -1,5 +1,8 @@
 # Day 1 (Free Pascal) stuff
 day-1/day-1
+day-1/day-1-part2
 day-1/*.o
 day-1/*.cfg
 day-1/*.ini
+day-1/*.dsk
+day-1/*.bak
