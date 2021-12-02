@@ -6,3 +6,7 @@ day-1/*.cfg
 day-1/*.ini
 day-1/*.dsk
 day-1/*.bak
+
+# Day 2 (Fortran) stuff
+day-2/day-2
+day-2/day-2-part2
